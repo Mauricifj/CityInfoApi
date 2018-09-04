@@ -11638,11 +11638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mjunior\\source\\repos\\OdeToFoodGit\\ASP.NETCoreAPI\\CityInfo.API\\CityInfo.API\\CityInfo.API.csproj",
+      "projectUniqueName": "C:\\Users\\mjunior\\Source\\Repos\\CityInfoApi\\CityInfo.API\\CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "C:\\Users\\mjunior\\source\\repos\\OdeToFoodGit\\ASP.NETCoreAPI\\CityInfo.API\\CityInfo.API\\CityInfo.API.csproj",
+      "projectPath": "C:\\Users\\mjunior\\Source\\Repos\\CityInfoApi\\CityInfo.API\\CityInfo.API.csproj",
       "packagesPath": "C:\\Users\\mjunior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mjunior\\source\\repos\\OdeToFoodGit\\ASP.NETCoreAPI\\CityInfo.API\\CityInfo.API\\obj\\",
+      "outputPath": "C:\\Users\\mjunior\\Source\\Repos\\CityInfoApi\\CityInfo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
